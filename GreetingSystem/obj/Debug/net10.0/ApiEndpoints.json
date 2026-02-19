@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "GreetingSystem.Controllers.GreetController",
+    "Method": "Get",
+    "RelativePath": "api/greet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

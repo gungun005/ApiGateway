@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Gateway.Controllers.DashboardController",
+    "Method": "Get",
+    "RelativePath": "dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

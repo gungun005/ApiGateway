@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TimeService.Controllers.TimeController",
+    "Method": "Get",
+    "RelativePath": "api/time",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

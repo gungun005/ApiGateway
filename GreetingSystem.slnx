@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Gateway/Gateway.csproj" />
+  <Project Path="GreetingSystem/GreetingSystem.csproj" />
+  <Project Path="GrretingSystem/TimeService.csproj" />
+</Solution>

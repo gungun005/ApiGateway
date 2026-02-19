@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GrretingSystem\\TimeService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GreetingSystem\\GreetingSystem.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
